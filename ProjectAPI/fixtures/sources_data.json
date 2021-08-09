@@ -1,0 +1,137 @@
+[
+      {
+        "model": "ProjectAPI.Source",
+        "pk": 1,
+        "fields": {
+          "sourceId": "associated-press",
+          "sourceName": "Associated Press",
+          "locale": 1,
+          "language": "en"
+        }
+      },
+      {
+        "model": "ProjectAPI.Source",
+        "pk": 2,
+        "fields": {
+          "sourceId": "politico",
+          "sourceName": "Politico",
+          "locale": 1,
+          "language": "en"
+        }
+      },
+      {
+        "model": "ProjectAPI.Source",
+        "pk": 3,
+        "fields": {
+          "sourceId": "the-verge",
+          "sourceName": "The Verge",
+          "locale": 1,
+          "language": "en"
+        }
+      },
+      {
+        "model": "ProjectAPI.Source",
+        "pk": 4,
+        "fields": {
+          "sourceId": "the-hill",
+          "sourceName": "The Hill",
+          "locale": 1,
+          "language": "en"
+        }
+      },
+      {
+        "model": "ProjectAPI.Source",
+        "pk": 5,
+        "fields": {
+          "sourceId": "reuters",
+          "sourceName": "Reuters",
+          "locale": 1,
+          "language": "en"
+        }
+      },
+      {
+        "model": "ProjectAPI.Source",
+        "pk": 6,
+        "fields": {
+          "sourceId": "techcrunch",
+          "sourceName": "TechCrunch",
+          "locale": 1,
+          "language": "en"
+        }
+      },
+      {
+        "model": "ProjectAPI.Source",
+        "pk": 7,
+        "fields": {
+          "sourceId": "cnn",
+          "sourceName": "CNN",
+          "locale": 1,
+          "language": "en"
+        }
+      },
+
+      {
+        "model": "ProjectAPI.Source",
+        "pk": 8,
+        "fields": {
+          "sourceId": "cbc-news",
+          "sourceName": "CBC News",
+          "locale": 2,
+          "language": "en"
+        }
+      },
+
+      {
+        "model": "ProjectAPI.Source",
+        "pk": 9,
+        "fields": {
+          "sourceId": "financial-post",
+          "sourceName": "Financial Post",
+          "locale": 2,
+          "language": "en"
+        }
+      },
+
+
+      {
+        "model": "ProjectAPI.Source",
+        "pk": 11,
+        "fields": {
+          "sourceId": "abc-news-au",
+          "sourceName": "ABC News (AU)",
+          "locale": 3,
+          "language": "en"
+        }
+      },
+      {
+        "model": "ProjectAPI.Source",
+        "pk": 12,
+        "fields": {
+          "sourceId": "news-com-au",
+          "sourceName": "News.com.au",
+          "locale": 3,
+          "language": "en"
+        }
+      },
+
+      {
+        "model": "ProjectAPI.Source",
+        "pk": 13,
+        "fields": {
+          "sourceId": "bbc-news",
+          "sourceName": "BBC News",
+          "locale": 4,
+          "language": "en"
+        }
+      },
+      {
+        "model": "ProjectAPI.Source",
+        "pk": 14,
+        "fields": {
+          "sourceId": "independent",
+          "sourceName": "Independent",
+          "locale": 4,
+          "language": "en"
+        }
+      }
+]

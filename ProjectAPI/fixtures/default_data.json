@@ -1,0 +1,53 @@
+
+[
+    {
+      "model": "ProjectAPI.Language",
+      "pk": 1,
+      "fields": {
+        "languageId": "en"
+      }
+    },
+    {
+      "model": "ProjectAPI.Country",
+      "pk": 1,
+      "fields": {
+        "countryId": "us",
+        "countryName": "United States"
+      }
+    }, 
+    {
+        "model": "ProjectAPI.Country",
+        "pk": 2,
+        "fields": {
+          "countryId": "ca",
+          "countryName": "Canada"
+        }
+      }, 
+      {
+        "model": "ProjectAPI.Country",
+        "pk": 3,
+        "fields": {
+          "countryId": "au",
+          "countryName": "Australia"
+        }
+      },
+      {
+        "model": "ProjectAPI.Country",
+        "pk": 4,
+        "fields": {
+          "countryId": "gb",
+          "countryName": "Great Britain (UK)"
+        }
+      },
+      {
+        "model": "ProjectAPI.Sentiment",
+        "pk": 1,
+        "fields": {
+          "mixed": "0",
+          "positive": "0",
+          "neutral" : "0",
+          "negative" : "0",
+          "sentiment" : "0"
+        }
+      }
+  ]
